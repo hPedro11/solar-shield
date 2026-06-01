@@ -8,7 +8,7 @@ Esta pasta contem o documento consolidado que comprova a execucao real do projet
 
 Cada print no documento corresponde a um criterio da disciplina:
 
-| Print | Criterio | Pontuacao |
+| Print | Criterio |
 |-------|----------|-----------|
 | 01 - Containers em execucao | 1. Arquitetura de Microsservicos |
 | 02 - API Gateway respondendo | 2. API Gateway com Nginx |
