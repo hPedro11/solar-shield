@@ -1,0 +1,21 @@
+{
+  "name": "alert-service",
+  "version": "1.0.0",
+  "description": "Solar Shield - Alert Service (consume + cache + expose)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "express": "^4.21.0",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}

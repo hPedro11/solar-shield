@@ -1,0 +1,22 @@
+{
+  "name": "ingestion-service",
+  "version": "1.0.0",
+  "description": "Solar Shield - Ingestion Service (NASA DONKI -> classify -> RabbitMQ)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "axios": "^1.7.7",
+    "axios-retry": "^4.5.0",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
