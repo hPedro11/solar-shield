@@ -204,8 +204,7 @@ solar-shield/
 
 ## 🎬 Vídeo Pitch
 
-🔗 [Link do YouTube — substituir após gravar]
-
+🔗 https://youtu.be/koZWrq3PH9E?feature=shared
 ---
 
 ## 📚 Referências
